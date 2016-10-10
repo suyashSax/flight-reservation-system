@@ -17,7 +17,7 @@ public class AirlineReservationSystem
     
     int flightNumber[] = {159,951};
     String flightName[] = {"Emirates EK ", "British BA "};
-    int totalSeats[] = {5,10};//multiple of 5 for seat map generation
+    int totalSeats[] = {40,30};//multiple of 5 for seat map generation
     String depart[] = {"DXB", "LHR"};
     String arrive[] = {"LHR", "DXB"};
     int reservedSeats[] ={0,0};
